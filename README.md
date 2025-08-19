@@ -1,2 +1,2 @@
 # SQL-Examples
-Various ways I've used SQL
+Using SQL to clean, join, and test subqueries vs Common Table Expressions with example Movie Rental Data.
